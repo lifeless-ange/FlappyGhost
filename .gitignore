@@ -1,0 +1,10 @@
+# Unity generated files
+Library/
+Temp/
+obj/
+Build/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.dll
